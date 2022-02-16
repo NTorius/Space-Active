@@ -22,7 +22,7 @@
    <TextView
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:text="Hello"
+       android:text="Space-ECE"
        android:layout_marginTop="20dp"
        android:textColor="@color/colorAccent"
        android:textSize="18sp"/>
@@ -30,7 +30,7 @@
    <TextView
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:text="All tasks"
+       android:text="Your Sheduls and Reminders"
        fontPath="fonts/nunito_extra_bold.ttf"
        android:textStyle="bold"
        android:textColor="@color/colorAccent"
